@@ -48,6 +48,8 @@ The purpose is to provide a structure through which students may exercise their 
 
 ## Badge
 
+![](https://github.com/rammya29/LGMVIP-DataScience/blob/main/Certificates/Data%20science%20intern.png)
+
 
 
 
